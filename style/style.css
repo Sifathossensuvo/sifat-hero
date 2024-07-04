@@ -1,0 +1,59 @@
+body{
+    background-image: url("https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2023/08/sfsvs-1693320185.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    margin-top: 40px;
+}
+.un{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+ul > a{
+    font-size: 32px;
+
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+a:hover{
+    text-decoration: underline;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.dd{
+    text-align: center;
+    margin-top: 450px;
+}
+.h1{
+    font-size: 50px;
+    color: white;
+}
+.pa{
+    color: rgb(245, 235, 235);
+    font-size: 30px;
+    margin-top: 20px;
+}
+.dw{
+    color: rgb(236, 76, 17);
+    font-size: 28px;
+    margin-top: 20px;
+}
+.copy{
+    font-size: 25px;
+    margin-top: 150px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
